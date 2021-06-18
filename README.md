@@ -18,7 +18,7 @@ boolean fire = false;
 /*-------defining Outputs------*/
 #define LM1 2       // left motor
 #define LM2 3       // left motor
-#define RM1 4       // right motor[PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+#define RM1 4       // right motor
 #define RM2 5       // right motor
 #define pump 13
  
